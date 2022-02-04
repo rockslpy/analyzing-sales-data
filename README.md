@@ -1,5 +1,4 @@
 # analyzing-sales-data
-Analyzing Sales Data using PanDas
 
 This project is a final project of Pandas Foundation course by DataRockie School.
 
